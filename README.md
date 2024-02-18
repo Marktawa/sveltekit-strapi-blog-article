@@ -107,6 +107,14 @@ In this tutorial, we have successfully set up the foundation for our blog websit
 
 Stay tuned for the upcoming parts of the tutorial series, where we will dive deeper into the development process and gradually build a fully functional blog website using Strapi and Sveltekit.
 
+## Resources
+
+- [GitHub Repo](https://github.com/Marktawa/sveltekit-strapi-blog)
+- [Source Code](https://github.com/Marktawa/sveltekit-strapi-blog/releases/tag/v1.0.0)
+<!-- - [Live Demo]() -->
+<!-- - [Video Demo]() -->
+<!-- - [Figma Design]() -->
+
 ## Author
 
 [Mark Munyaka](https://markmunyaka.com)
